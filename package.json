@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "description": "",
+  "private": true,
+  "version": "0.0.0",
+  "engines": {
+    "node": "0.10.x",
+    "npm": "^2.1.0"
+  },
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-requirejs-optimize": "^0.2.0"
+  }
+}
